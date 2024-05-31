@@ -6,12 +6,12 @@ Description: The purpose of this project is to identify errors when implementing
 
 Technologies and techniques used
 
-Urban platform: is a website that allows users to order cars for transportation purposes.
-GitHub: is an online software development platform. It's used for storing, tracking, and collaborating on software projects.
-Visual Studio Code: is a streamlined code editor with support for development operations like debugging, task running, and version control.
-JavaScript: is a scripting language used to create and control dynamic website content.
-DevTools is a set of web developer tools that lets you edit pages on-the-fly and diagnose problems quickly, which helps you build better websites, faster.
-WebDriverIO:is a modern test framework for automating tests. It uses the WebDriver protocol, which is itself a long-lived automation framework.
+- Urban platform: is a website that allows users to order cars for transportation purposes.
+- GitHub: is an online software development platform. It's used for storing, tracking, and collaborating on software projects.
+- Visual Studio Code: is a streamlined code editor with support for development operations like debugging, task running, and version control.
+- JavaScript: is a scripting language used to create and control dynamic website content.
+- DevTools is a set of web developer tools that lets you edit pages on-the-fly and diagnose problems quickly, which helps you build better websites, faster.
+- WebDriverIO:is a modern test framework for automating tests. It uses the WebDriver protocol, which is itself a long-lived automation framework.
 
 Instructions on how to use the tests
 
