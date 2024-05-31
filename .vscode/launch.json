@@ -1,0 +1,14 @@
+{
+    "version": "1",
+    "configurations": [
+        {
+            "name": "Debug File",
+            "type": "node",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "runtimeExecutable": "npm",
+            "args" : ["run", "wdio"],
+            "outputCapture": "std"
+        }
+    ]
+}
